@@ -66,7 +66,7 @@ The default webcam is used, but you can change the cap object to point to a diff
 ## License
 You can modify the sections to fit the specifics of your project. Let me know if you'd like further customization!
 
-# İngilizce
+# Türkçe
 # OpenCV, MediaPipe ve PyAutoGUI Kullanarak Elle Takip Edilen Fare Kontrolü
 
 Bu proje, bir web kamerası aracılığıyla takip edilen el hareketlerini kullanarak fareyi kontrol etmenize olanak tanır. Video yakalama için OpenCV'den, el izleme için MediaPipe'dan ve fare ve klavyeyi kontrol etmek için PyAutoGUI'den yararlanan bu sistem, bilgisayarınızla jest tabanlı etkileşime olanak tanır.
