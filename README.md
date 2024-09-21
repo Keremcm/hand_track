@@ -113,7 +113,7 @@ cd hand-track
 
 Gerekli bağımlılıkları yükleyin:
 ``` bash
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
 
 ## Komut dosyasını çalıştırın:
